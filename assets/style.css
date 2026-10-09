@@ -522,11 +522,11 @@ a {
     }
 
     .hero-name {
-        font-size: 40px;
+        font-size: 3rem;
     }
 
     .hero-role {
-        font-size: 17px;
+        font-size: 1.2rem;
     }
 
     .contact-row {
@@ -534,7 +534,11 @@ a {
     }
 
     .section-title {
-        font-size: 28px;
+        font-size: 2rem;
+    }
+
+    .section-subtitle-sec {
+        font-size: 1.5rem;
     }
 
     /* ===== Reordenar tarjeta de caso de éxito ===== */
@@ -579,7 +583,7 @@ a {
     }
 
     .whatsapp-cta-text h2 {
-        font-size: 24px;
+        font-size: 1.2rem;
     }
 
     .case-card--yoga .gallery-row {
